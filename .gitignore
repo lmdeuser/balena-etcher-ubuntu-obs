@@ -1,0 +1,10 @@
+*.deb
+*.ddeb
+*.udeb
+*.dsc
+*.changes
+*.buildinfo
+*.tar.*
+*.zip
+*.gpg
+*.asc
